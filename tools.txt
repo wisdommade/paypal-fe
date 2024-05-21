@@ -1,0 +1,7 @@
+What is the difference b/w git pull, git push, git fetch & git clone?   
+    Git pull brings changes in the code to the local repository and workingArea 
+    Git fetch brings changes to the code in the local repository ONLY.
+
+  which can be merge after review [git diff]    
+    Git push brings changes in the code to the remote/shared repository from LocalRepo 
+    Git clone brings the entire code to the Local Repo/environment
