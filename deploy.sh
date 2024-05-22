@@ -6,3 +6,5 @@ deployment must be reviewed by devops engineers
 done
  
 developers at work
+
+ready for deploy by dev team
