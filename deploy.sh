@@ -6,3 +6,5 @@ deployment must be reviewed by devops engineers
 done
  
 developers at work
+SDLC is great
+AWS code deploy is a great tool
